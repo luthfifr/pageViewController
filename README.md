@@ -35,8 +35,3 @@ Navigation orientation: Vertical | Transition Style: Page Curl | Spine Location:
 Navigation orientation: Vertical | Transition Style: Page Curl | Spine Location: Max | Double-sided: Yes
 
 ![]() if the GIF does not loaded properly visit [this link]().
-
-
-Navigation orientation: Horizontal | Transition Style: Scroll | Spine Location: None
-
-![]() if the GIF does not loaded properly visit [this link]().
