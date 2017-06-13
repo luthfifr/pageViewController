@@ -10,7 +10,7 @@ Navigation orientation: Horizontal | Transition Style: Page Curl | Spine Locatio
 
 Navigation orientation: Horizontal | Transition Style: Page Curl | Spine Location: Min | Double-sided: No
 
-![]() if the GIF does not loaded properly visit [this link]().
+![](http://luthfifr.com/buku_ios_101/gif/pageViewController/horizontal_pageCurl_spineMin.gif) if the GIF does not loaded properly visit [this link](http://luthfifr.com/buku_ios_101/gif/pageViewController/horizontal_pageCurl_spineMin.gif).
 
 Navigation orientation: Horizontal | Transition Style: Page Curl | Spine Location: Min | Double-sided: Yes
 
