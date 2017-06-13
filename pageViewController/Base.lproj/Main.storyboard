@@ -9,10 +9,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Page View Controller-->
+        <!--Page Controller-->
         <scene sceneID="uiM-f7-mFc">
             <objects>
-                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="pageCurl" navigationOrientation="horizontal" spineLocation="min" id="qNw-5u-3wB" sceneMemberID="viewController"/>
+                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="scroll" navigationOrientation="vertical" spineLocation="none" id="qNw-5u-3wB" customClass="PageController" customModule="pageViewController" customModuleProvider="target" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="L8I-LQ-kji" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-359" y="158"/>
@@ -29,7 +29,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DQp-Sk-PTu">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="gambar1_edit" translatesAutoresizingMaskIntoConstraints="NO" id="DQp-Sk-PTu">
                                 <rect key="frame" x="0.0" y="20" width="414" height="716"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
@@ -42,18 +42,18 @@
             <point key="canvasLocation" x="328" y="157"/>
         </scene>
         <!--View Controller-->
-        <scene sceneID="IaX-WR-PQW">
+        <scene sceneID="sBk-a6-NEe">
             <objects>
-                <viewController storyboardIdentifier="halaman2" id="kt6-g4-3Mk" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="halaman2" id="MEl-A0-VNu" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="shT-Z4-TSl"/>
-                        <viewControllerLayoutGuide type="bottom" id="5mx-hX-lxD"/>
+                        <viewControllerLayoutGuide type="top" id="jr7-vj-YZi"/>
+                        <viewControllerLayoutGuide type="bottom" id="Y9M-pI-9Vu"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="cxd-Be-NPK">
+                    <view key="view" contentMode="scaleToFill" id="oqx-nq-sb6">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fKU-ZO-64j">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="gambar2_edit" translatesAutoresizingMaskIntoConstraints="NO" id="md5-Nn-6d5">
                                 <rect key="frame" x="0.0" y="20" width="414" height="716"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
@@ -61,23 +61,23 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="tWL-cE-Xgn" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fej-G3-lm5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1017" y="157"/>
+            <point key="canvasLocation" x="1041" y="157"/>
         </scene>
         <!--View Controller-->
-        <scene sceneID="Frl-ad-e9N">
+        <scene sceneID="OrH-Ik-gfz">
             <objects>
-                <viewController storyboardIdentifier="halaman3" id="4Rz-gE-ySG" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="halaman3" id="FeI-cN-koi" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="LJO-cg-7Ce"/>
-                        <viewControllerLayoutGuide type="bottom" id="sdc-rj-RWl"/>
+                        <viewControllerLayoutGuide type="top" id="g2d-JW-7zz"/>
+                        <viewControllerLayoutGuide type="bottom" id="H24-fN-ewZ"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="IcP-wE-7En">
+                    <view key="view" contentMode="scaleToFill" id="8zA-EX-Hw6">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="qme-gX-YSf">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="gambar3_edit" translatesAutoresizingMaskIntoConstraints="NO" id="4zy-Kt-gDO">
                                 <rect key="frame" x="0.0" y="20" width="414" height="716"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
@@ -85,23 +85,23 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="5y0-O9-CTB" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OlI-Ot-qJZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1699" y="157"/>
+            <point key="canvasLocation" x="1751" y="157"/>
         </scene>
         <!--View Controller-->
-        <scene sceneID="Lfg-Vp-ZDm">
+        <scene sceneID="8dr-z1-omO">
             <objects>
-                <viewController storyboardIdentifier="halaman4" id="kSF-NO-ucF" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="halaman4" id="RcZ-R6-osa" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="HVq-Rl-fsx"/>
-                        <viewControllerLayoutGuide type="bottom" id="ii9-6z-5ao"/>
+                        <viewControllerLayoutGuide type="top" id="Fti-FI-H8T"/>
+                        <viewControllerLayoutGuide type="bottom" id="FYC-ey-umI"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="AxC-5h-Ur7">
+                    <view key="view" contentMode="scaleToFill" id="rJT-aR-hYB">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hHj-XN-QL3">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="gambar4_edit" translatesAutoresizingMaskIntoConstraints="NO" id="uqa-hM-AMt">
                                 <rect key="frame" x="0.0" y="20" width="414" height="716"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
@@ -109,9 +109,15 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="E0Z-Rv-ovr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="CEq-5S-IWu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2374" y="157"/>
+            <point key="canvasLocation" x="2445" y="157"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="gambar1_edit" width="443" height="788"/>
+        <image name="gambar2_edit" width="622" height="1105"/>
+        <image name="gambar3_edit" width="648" height="1152"/>
+        <image name="gambar4_edit" width="921" height="1637"/>
+    </resources>
 </document>

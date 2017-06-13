@@ -14,6 +14,7 @@
 		CF95BBD71EEF4E8C00CEC00C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF95BBD51EEF4E8C00CEC00C /* LaunchScreen.storyboard */; };
 		CF95BBE21EEF4E8C00CEC00C /* pageViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF95BBE11EEF4E8C00CEC00C /* pageViewControllerTests.swift */; };
 		CF95BBED1EEF4E8C00CEC00C /* pageViewControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF95BBEC1EEF4E8C00CEC00C /* pageViewControllerUITests.swift */; };
+		CF95BBFB1EEF6EFF00CEC00C /* PageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF95BBFA1EEF6EFF00CEC00C /* PageController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CF95BBE81EEF4E8C00CEC00C /* pageViewControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pageViewControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF95BBEC1EEF4E8C00CEC00C /* pageViewControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageViewControllerUITests.swift; sourceTree = "<group>"; };
 		CF95BBEE1EEF4E8C00CEC00C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF95BBFA1EEF6EFF00CEC00C /* PageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				CF95BBCC1EEF4E8C00CEC00C /* AppDelegate.swift */,
 				CF95BBCE1EEF4E8C00CEC00C /* ViewController.swift */,
+				CF95BBFA1EEF6EFF00CEC00C /* PageController.swift */,
 				CF95BBD01EEF4E8C00CEC00C /* Main.storyboard */,
 				CF95BBD31EEF4E8C00CEC00C /* Assets.xcassets */,
 				CF95BBD51EEF4E8C00CEC00C /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				CF95BBCF1EEF4E8C00CEC00C /* ViewController.swift in Sources */,
 				CF95BBCD1EEF4E8C00CEC00C /* AppDelegate.swift in Sources */,
+				CF95BBFB1EEF6EFF00CEC00C /* PageController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
