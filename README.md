@@ -6,7 +6,7 @@ Here is the output of this project:
 
 Navigation orientation: Horizontal | Transition Style: Page Curl | Spine Location: Max | Double-sided: No
 
-![]() if the GIF does not loaded properly visit [this link]().
+![](http://luthfifr.com/buku_ios_101/gif/pageViewController/horizontal_pageCurl_spineMax.gif) if the GIF does not loaded properly visit [this link](http://luthfifr.com/buku_ios_101/gif/pageViewController/horizontal_pageCurl_spineMax.gif).
 
 Navigation orientation: Horizontal | Transition Style: Page Curl | Spine Location: Min | Double-sided: No
 
