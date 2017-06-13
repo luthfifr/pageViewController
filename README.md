@@ -22,7 +22,7 @@ Navigation orientation: Horizontal | Transition Style: Scroll | Spine Location: 
 
 Navigation orientation: Horizontal | Transition Style: Scroll | Spine Location: None | Page Indicator Background: Transparent
 
-![]() if the GIF does not loaded properly visit [this link]().
+![](http://luthfifr.com/buku_ios_101/gif/pageViewController/horizontal_scroll_transparent.gif) if the GIF does not loaded properly visit [this link](http://luthfifr.com/buku_ios_101/gif/pageViewController/horizontal_scroll_transparent.gif).
 
 Navigation orientation: Vertical | Transition Style: Page Curl | Spine Location: Max | Double-sided: No
 
