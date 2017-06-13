@@ -30,7 +30,7 @@ Navigation orientation: Vertical | Transition Style: Page Curl | Spine Location:
 
 Navigation orientation: Vertical | Transition Style: Page Curl | Spine Location: Min | Double-sided: No
 
-![]() if the GIF does not loaded properly visit [this link]().
+![](http://luthfifr.com/buku_ios_101/gif/pageViewController/vertikal_pageCurl_spineMin.gif) if the GIF does not loaded properly visit [this link](http://luthfifr.com/buku_ios_101/gif/pageViewController/vertikal_pageCurl_spineMin.gif).
 
 Navigation orientation: Vertical | Transition Style: Page Curl | Spine Location: Max | Double-sided: Yes
 
